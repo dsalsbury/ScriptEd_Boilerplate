@@ -1,0 +1,8 @@
+h1 {
+   color: blue; 
+}
+#container {
+    margin: auto;
+    width: 60%;
+    border: 1px;
+}
